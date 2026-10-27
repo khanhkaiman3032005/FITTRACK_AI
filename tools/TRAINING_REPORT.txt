@@ -1,0 +1,10 @@
+Training report — Intent classifier AI Coach 3.1
+Algorithm: Multinomial Naive Bayes on binary Vietnamese character 2-3 grams.
+Dataset: 120 authored starter examples / 12 labels; train 90, test 30 (stratified, random_state=42).
+Held-out accuracy in current local run: 0.633 (19/30); macro F1 approximately 0.60.
+This is an initial engineering experiment, NOT a validated user-intent recognizer.
+Some labels have just 2-3 evaluation samples; do not claim real-world accuracy.
+Safety-critical labels are excluded from ML routing, so they remain rule/Guardian-driven.
+Fallback to Gemini if confidence or margin too small.
+Recommended next: collect 50-100 independent paraphrases per label from test volunteers with consent,
+remove identifiable/private text, separate train/test by writer, cross-validate and recalibrate thresholds.

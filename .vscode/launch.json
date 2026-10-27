@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "FITTRACK Web",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome",
+      "toolArgs": [
+        "--web-port",
+        "8080",
+        "--dart-define-from-file",
+        "config/dev.json"
+      ]
+    },
+
+    {
+      "name": "FITTRACK Android",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "emulator-5554",
+      "toolArgs": ["--dart-define-from-file=config/dev.json"]
+    }
+  ]
+}

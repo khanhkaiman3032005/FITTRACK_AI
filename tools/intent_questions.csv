@@ -1,0 +1,121 @@
+text,intent
+hôm nay tôi uống bao nhiêu nước,water
+tôi còn thiếu mấy lít nước,water
+đã đủ nước hôm nay chưa,water
+lượng nước uống hiện tại,water
+cho xem tiến độ uống nước,water
+tôi uống được bao nhiêu ml,water
+tổng nước trong ngày của tôi,water
+nước uống hôm nay thế nào,water
+tôi cần uống thêm bao nhiêu,water
+kiểm tra chỉ tiêu nước,water
+tôi đi được bao nhiêu bước,steps
+số bước chân hôm nay,steps
+tôi đạt mục tiêu bước chưa,steps
+đếm bước chân hôm nay,steps
+tiến độ đi bộ của tôi,steps
+tôi đã bước bao nhiêu lần,steps
+hôm nay tôi đi được mấy bước,steps
+cho xem số bước trong ngày,steps
+tổng bước chân hiện tại,steps
+bao nhiêu bước nữa mới đạt,steps
+tôi ăn bao nhiêu calo hôm nay,nutrition
+calories nạp hiện tại,nutrition
+hôm nay đã ăn những gì,nutrition
+kiểm tra năng lượng ăn vào,nutrition
+tổng kcal từ thức ăn,nutrition
+dinh dưỡng hôm nay thế nào,nutrition
+tôi còn bao nhiêu calo để ăn,nutrition
+cho xem lượng protein,nutrition
+bữa ăn hôm nay có gì,nutrition
+xem nhật ký ăn uống,nutrition
+chỉ số BMI của tôi bao nhiêu,body
+cân nặng hiện tại là bao nhiêu,body
+chiều cao của tôi,body
+tôi có tăng cân không,body
+xem chỉ số cơ thể,body
+mục tiêu cân nặng của tôi,body
+cho tôi xem BMI hôm nay,body
+số cân hiện nay,body
+theo dõi cân nặng,body
+chỉ số chiều cao cân nặng,body
+hôm qua tôi tập có quá sức không,recovery
+độ gắng sức RPE hôm qua,recovery
+hôm nay tôi đã hồi phục chưa,recovery
+tập quá sức có sao không,recovery
+tôi có nên nghỉ hôm nay,recovery
+mức gắng sức lần tập trước,recovery
+lịch sử hồi phục của tôi,recovery
+phiếu RPE gần đây thế nào,recovery
+tập hôm qua có nặng không,recovery
+gắng sức cao có nên tập tiếp,recovery
+vì sao tôi bị chặn tập,safety_reason
+tại sao ứng dụng không cho tập,safety_reason
+lý do cấm luyện tập hôm nay,safety_reason
+giải thích cảnh báo sức khỏe,safety_reason
+vì sao health guardian chặn,safety_reason
+tôi bị khóa nút bắt đầu tập,safety_reason
+cảnh báo buổi tập nghĩa là gì,safety_reason
+hôm nay sao không thể luyện tập,safety_reason
+điều kiện nào chặn tập,safety_reason
+cho biết nguyên nhân không cho tập,safety_reason
+hôm nay nên tập bài nào,recommend
+gợi ý bài tập phù hợp,recommend
+tôi nên tập squat hay lunge,recommend
+gợi ý lịch tập hôm nay,recommend
+có bài nào để tập không,recommend
+đề xuất bài tập cho tôi,recommend
+hôm nay tập gì tốt,recommend
+hãy chọn bài tập cho tôi,recommend
+cho tôi gợi ý luyện tập,recommend
+bắt đầu luyện tập nào,recommend
+tuần này tôi tập mấy buổi,history
+thống kê bảy ngày vừa qua,history
+tóm tắt tuần trước,history
+lịch sử tập luyện hôm qua,history
+xem quá trình vận động tuần này,history
+so sánh kết quả tuần qua,history
+hôm qua tôi làm gì,history
+bao nhiêu ngày đã luyện tập,history
+xem báo cáo luyện tập tuần,history
+thành tích tuần này,history
+tôi bị đau ngực khi tập,symptoms
+khó thở bất thường phải làm sao,symptoms
+tôi chóng mặt muốn ngất,symptoms
+nhịp tim bất thường trong buổi tập,symptoms
+đau ngực và chóng mặt,symptoms
+tôi sắp ngất khi đang squat,symptoms
+đang tập bị khó thở mạnh,symptoms
+tập mà thấy đau ngực,symptoms
+tim đập bất thường và choáng,symptoms
+có triệu chứng nguy hiểm khi vận động,symptoms
+tôi có bệnh tim có tập được không,medical
+hen suyễn nên tập squat không,medical
+cao huyết áp có an toàn khi tập,medical
+bệnh nền ảnh hưởng luyện tập,medical
+chấn thương đầu gối có tập lunge được không,medical
+tim mạch có nên tập nặng,medical
+tiểu đường nên vận động thế nào,medical
+bệnh tim tập push up có sao,medical
+tôi bị bệnh mãn tính muốn tập,medical
+tôi có hạn chế vận động,medical
+tôi đạt mục tiêu hôm nay chưa,goals
+tiến độ mục tiêu trong ngày,goals
+bao nhiêu phần trăm hoàn thành,goals
+mục tiêu calo hôm nay,goals
+còn thiếu bao nhiêu so với mục tiêu,goals
+kiểm tra mục tiêu hiện tại,goals
+tôi hoàn thành kế hoạch chưa,goals
+theo dõi tiến độ cá nhân,goals
+chỉ tiêu ngày hôm nay,goals
+mục tiêu luyện tập đã đạt chưa,goals
+hướng dẫn thuật toán rsa,unknown
+thời tiết ở hà nội thế nào,unknown
+giải thích vật lý lượng tử,unknown
+cho tôi học tiếng nhật,unknown
+hỏi về phương trình bậc hai,unknown
+viết một bài thơ về mùa thu,unknown
+cách làm ứng dụng ngân hàng,unknown
+phân tích kinh tế thế giới,unknown
+lịch sử đế chế la mã,unknown
+học lập trình python cơ bản,unknown
